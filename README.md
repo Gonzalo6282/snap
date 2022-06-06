@@ -127,4 +127,4 @@ I want to continue focusing on React in my future projects. These are some of th
 - Youtube - [Kevin Powell](https://www.youtube.com/kepowob)
 
 I did get inspiration from Kevin Powell, he is a coding instructor in Youtube. I'd recommend it to anyone that is learning programing to check some of his videos.
-# snap
+

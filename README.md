@@ -48,8 +48,6 @@ Semantic HTML5 markup
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
 To see how you can add code snippets, see below:
 
 ```html
@@ -114,7 +112,7 @@ I want to continue focusing on React in my future projects. These are some of th
 ### Useful resources
 
 - [Youtube](https://youtu.be/_MrShB9fh7U) - This helped me for create an animated custom hamburger icon for the navbar in bootstrap 5.
-- [Youtube](https://youtu.be/rg7Fvvl3taU) - This is an amazing article which helped me understand the CSS grid. I'd recommend it to anyone still learning this concept.
+- [Youtube](https://youtu.be/rg7Fvvl3taU) - This is an amazing tutorial which helped me understand the CSS grid. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
